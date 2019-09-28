@@ -1,2 +1,2 @@
 # selectPRIN.github.io
-SELECT Website
+SELECT website available at https://selectprin.github.io/
