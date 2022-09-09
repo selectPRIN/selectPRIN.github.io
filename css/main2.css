@@ -405,7 +405,7 @@ button:focus {
    ========================================================================== */
 #hero-area {
   background: url(../img/Lago_di_misurina.jpg) fixed no-repeat;
-  background-size: cover;
+  background-size: contain;
   height:50%;
   color: #fff;
   overflow: hidden;
